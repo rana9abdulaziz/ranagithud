@@ -1,1 +1,2 @@
 echo " somthing">mistake_file
+git status
